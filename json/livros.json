@@ -1,0 +1,18 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "editora": "Principis"
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano": 1949,
+      "editora": "Companhia das Letras"
+    }
+  ]
+}

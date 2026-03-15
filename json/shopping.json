@@ -1,0 +1,8 @@
+{
+  "shopping": {
+    "nome": "BH Shopping",
+    "cidade": "Belo Horizonte",
+    "numeroLojas": 400,
+    "temCinema": true
+  }
+}

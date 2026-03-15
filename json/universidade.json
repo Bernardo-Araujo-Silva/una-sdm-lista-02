@@ -1,0 +1,12 @@
+{
+  "universidade": {
+    "nome": "Centro Universitário UNA",
+    "cidade": "Belo Horizonte",
+    "quantidadeAlunos": 15000,
+    "cursos": [
+      "Sistemas de Informação",
+      "Direito",
+      "Administração"
+    ]
+  }
+}

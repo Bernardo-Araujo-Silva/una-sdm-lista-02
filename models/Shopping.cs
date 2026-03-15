@@ -1,0 +1,7 @@
+public class Shopping
+{
+    public string Nome { get; set; }
+    public string Cidade { get; set; }
+    public int NumeroLojas { get; set; }
+    public bool TemCinema { get; set; }
+}
